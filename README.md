@@ -1,6 +1,3 @@
-[index.html](https://github.com/user-attachments/files/28803712/index.html)
-# anicatering
-websitecatering
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
