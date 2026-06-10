@@ -56,7 +56,7 @@
             </nav>
 
             <div class="hidden md:block">
-                <a href="https://wa.me/62895327493399" target="_blank" class="inline-flex items-center gap-2 px-5 py-2.5 border border-amber-500 text-amber-500 rounded-full text-sm font-semibold hover:bg-amber-500 hover:text-neutral-950 transition-all duration-300 transform hover:scale-105">
+                <a href="https://wa.me/62895321735409" target="_blank" class="inline-flex items-center gap-2 px-5 py-2.5 border border-amber-500 text-amber-500 rounded-full text-sm font-semibold hover:bg-amber-500 hover:text-neutral-950 transition-all duration-300 transform hover:scale-105">
                     <i data-lucide="phone" class="w-4 h-4"></i> Hubungi Kami
                 </a>
             </div>
@@ -71,7 +71,7 @@
             <a href="#solusi" class="block py-2 text-neutral-300 hover:text-amber-400 transition-colors">Tentang</a>
             <a href="#menu" class="block py-2 text-neutral-300 hover:text-amber-400 transition-colors">Menu</a>
             <a href="#keunggulan" class="block py-2 text-neutral-300 hover:text-amber-400 transition-colors">Keunggulan</a>
-            <a href="https://wa.me/62895327493399" target="_blank" class="w-full text-center inline-flex justify-center items-center gap-2 px-5 py-3 bg-amber-500 text-neutral-950 rounded-lg font-bold">
+            <a href="https://wa.me/62895321735409" target="_blank" class="w-full text-center inline-flex justify-center items-center gap-2 px-5 py-3 bg-amber-500 text-neutral-950 rounded-lg font-bold">
                 <i data-lucide="phone" class="w-4 h-4"></i> Hubungi Kami
             </a>
         </div>
@@ -91,7 +91,7 @@
                     Pilihan Menu Eropa, Sunda, hingga Nusantara Terbaik di Bandung. Siap Melayani Pernikahan, Syukuran, Khitanan, dan Berbagai Acara Istimewa Anda.
                 </p>
                 <div class="flex flex-col sm:flex-row justify-center lg:justify-start items-center gap-4">
-                    <a href="https://wa.me/62895327493399" target="_blank" class="w-full sm:w-auto text-center inline-flex items-center justify-center gap-3 px-8 py-4 bg-gradient-to-r from-amber-600 via-amber-500 to-amber-600 text-neutral-950 font-bold rounded-xl shadow-[0_4px_20px_rgba(245,158,11,0.4)] hover:shadow-[0_4px_25px_rgba(245,158,11,0.6)] transition-all duration-300 transform hover:-translate-y-0.5">
+                    <a href="https://wa.me/62895321735409" target="_blank" class="w-full sm:w-auto text-center inline-flex items-center justify-center gap-3 px-8 py-4 bg-gradient-to-r from-amber-600 via-amber-500 to-amber-600 text-neutral-950 font-bold rounded-xl shadow-[0_4px_20px_rgba(245,158,11,0.4)] hover:shadow-[0_4px_25px_rgba(245,158,11,0.6)] transition-all duration-300 transform hover:-translate-y-0.5">
                         <i data-lucide="whatsapp" class="w-5 h-5 fill-current"></i> Konsultasi Menu & Harga Sekarang (Free)
                     </a>
                 </div>
@@ -316,7 +316,7 @@
             <p class="text-base sm:text-lg text-neutral-300 font-light max-w-2xl mx-auto mb-10 leading-relaxed">
                 Biarkan kami yang bekerja di balik layar, sementara Anda menikmati momen bahagia bersama keluarga. Amankan Tanggal Acara Anda Sekarang Juga!
             </p>
-            <a href="https://wa.me/62895327493399" target="_blank" class="inline-flex items-center gap-3 px-8 py-4 sm:px-10 sm:py-5 bg-gradient-to-r from-amber-500 to-amber-600 text-neutral-950 font-black rounded-xl text-sm sm:text-base tracking-wider uppercase shadow-[0_4px_30px_rgba(245,158,11,0.3)] hover:shadow-[0_4px_40px_rgba(245,158,11,0.5)] transition-all duration-300 transform hover:scale-105">
+            <a href="https://wa.me/62895321735409" target="_blank" class="inline-flex items-center gap-3 px-8 py-4 sm:px-10 sm:py-5 bg-gradient-to-r from-amber-500 to-amber-600 text-neutral-950 font-black rounded-xl text-sm sm:text-base tracking-wider uppercase shadow-[0_4px_30px_rgba(245,158,11,0.3)] hover:shadow-[0_4px_40px_rgba(245,158,11,0.5)] transition-all duration-300 transform hover:scale-105">
                 <i data-lucide="message-square" class="w-5 h-5 fill-current"></i> CHAT VIA WHATSAPP (0895327493399)
             </a>
         </div>
